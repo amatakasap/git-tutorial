@@ -7,7 +7,7 @@
 - わからないことがあったときに google で「どんな単語」で調べればいいかわかるようになる
 
 ## 目次
-1. [Git とは？](https://github.com/amatakasap/git-tutorial/blob/master/tutorial1.md)
+1. [GitとGitHub、SourceTreeとは？](https://github.com/amatakasap/git-tutorial/blob/master/tutorial1.md)
 1. [GitLab に登録](https://github.com/amatakasap/git-tutorial/blob/master/tutorial2.md)
 1. [SourceTree をインストール](https://github.com/amatakasap/git-tutorial/blob/master/tutorial3.md)
 1. [ステージング, コミット, ログ](https://github.com/amatakasap/git-tutorial/blob/master/tutorial4.md)
@@ -15,4 +15,4 @@
 1. [マージ](https://github.com/amatakasap/git-tutorial/blob/master/tutorial6.md)
 1. [タグ](https://github.com/amatakasap/git-tutorial/blob/master/tutorial7.md)
 
-[next - GitLab とは？](https://github.com/amatakasap/git-tutorial/blob/master/tutorial1.md)
+[next - GitとGitHub、SourceTreeとは？](https://github.com/amatakasap/git-tutorial/blob/master/tutorial1.md)
